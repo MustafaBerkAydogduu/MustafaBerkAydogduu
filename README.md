@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Berk Aydogdu</h1>
 <h3 align="center">Web Developer Candidate</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
